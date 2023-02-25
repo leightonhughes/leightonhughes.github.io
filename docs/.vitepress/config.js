@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/leightonhughes.github.io/'
+  base: 'leightonhughes.github.io'
 })
